@@ -13,7 +13,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="cute icon"  height="140" width="140" src="https://images-ext-1.discordapp.net/external/vW4hh-TIIypDnF7DiFSTuuUKQiAFDdUTi7cEb8KK1U4/https/media.discordapp.net/attachments/880541652035436579/880827782001733693/Webp.net-gifmaker_1.gif?width=300&height=300">
+  <img align="right" alt="cute icon"  height="140" width="140" src="https://media.discordapp.net/attachments/880541652035436579/880827782001733693/Webp.net-gifmaker_1.gif?width=488&height=488">
 </div>
   
   ##
